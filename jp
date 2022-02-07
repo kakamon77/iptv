@@ -121,3 +121,5 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 #EXTINF:-1 tvg-id="WorldFashionChannel.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",Animax Japan (Vietnamese Subs)
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8?checkedby:iptvcat.net
